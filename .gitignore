@@ -131,3 +131,10 @@ kernel/configs/android-*.cfg
 #Ignoring Android.bp link file
 #
 Android.bp
+
+AnyKernel/
+out/
+clang/
+los-4.9-32/
+los-4.9-64/
+r5x.sh
